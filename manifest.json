@@ -1,0 +1,10 @@
+{
+  "domain": "modbus_fast_coil_poller",
+  "name": "Fast Modbus TCP Coil Poller",
+  "version": "1.0.0",
+  "documentation": "https://github.com/jankeymeulen/modbus_fast_coil_poller",
+  "codeowners": [],
+  "requirements": ["pymodbus>=3.5.0"],
+  "dependencies": [],
+  "iot_class": "local_polling"
+}
