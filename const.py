@@ -2,7 +2,7 @@
 
 DOMAIN = "modbus_coil_poller"
 
-# Configuration keys
+# ── Configuration keys (used in YAML) ────────────────────────────────────
 CONF_SLAVES = "slaves"
 CONF_HOST = "host"
 CONF_PORT = "port"
@@ -13,7 +13,7 @@ CONF_COILS = "coils"
 CONF_ADDRESS = "address"
 CONF_NAME = "name"
 
-# Defaults
+# ── Default values ───────────────────────────────────────────────────────
 DEFAULT_PORT = 502
 DEFAULT_SLAVE_ID = 1
 DEFAULT_SCAN_INTERVAL_MS = 100  # 10 Hz
