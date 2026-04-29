@@ -1,5 +1,5 @@
 {
-  "domain": "modbus_fast_coil_poller",
+  "domain": "modbus_coil_poller",
   "name": "Fast Modbus TCP Coil Poller",
   "version": "1.0.0",
   "documentation": "https://github.com/jankeymeulen/modbus_fast_coil_poller",
